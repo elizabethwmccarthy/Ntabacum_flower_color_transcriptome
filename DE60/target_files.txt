@@ -1,0 +1,17 @@
+Sylv60A/RSEM.isoforms.results
+Sylv60B/RSEM.isoforms.results
+Sylv60C/RSEM.isoforms.results
+QM2460A/RSEM.isoforms.results
+QM2460C/RSEM.isoforms.results
+QM2560A/RSEM.isoforms.results
+QM2560B/RSEM.isoforms.results
+QM2560C/RSEM.isoforms.results
+TAB09560A/RSEM.isoforms.results
+TAB09560B/RSEM.isoforms.results
+TAB09560C/RSEM.isoforms.results
+TABC60A/RSEM.isoforms.results
+TABC60B/RSEM.isoforms.results
+TABC60C/RSEM.isoforms.results
+Tom60A/RSEM.isoforms.results
+Tom60B/RSEM.isoforms.results
+Tom60C/RSEM.isoforms.results

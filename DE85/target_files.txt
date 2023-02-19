@@ -1,0 +1,17 @@
+Sylv85A/RSEM.isoforms.results
+Sylv85B/RSEM.isoforms.results
+Sylv85C/RSEM.isoforms.results
+QM2485A/RSEM.isoforms.results
+QM2485B/RSEM.isoforms.results
+QM2485C/RSEM.isoforms.results
+QM2585A/RSEM.isoforms.results
+QM2585B/RSEM.isoforms.results
+QM2585C/RSEM.isoforms.results
+TAB09585A/RSEM.isoforms.results
+TAB09585B/RSEM.isoforms.results
+TAB09585C/RSEM.isoforms.results
+TABC85A/RSEM.isoforms.results
+TABC85B/RSEM.isoforms.results
+TABC85C/RSEM.isoforms.results
+Tom85B/RSEM.isoforms.results
+Tom85C/RSEM.isoforms.results

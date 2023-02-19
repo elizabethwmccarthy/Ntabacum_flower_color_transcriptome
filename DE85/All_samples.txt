@@ -1,0 +1,17 @@
+Sylv85	Sylv85A	cleaned_reads/sylv85pl1.fastq.fastq.gz
+Sylv85	Sylv85B	cleaned_reads/sylv85pl3.fastq.fastq.gz
+Sylv85	Sylv85C	cleaned_reads/sylv856-28.fastq.fastq.gz
+Tom85	Tom85B	cleaned_reads/tomf85pl2.fastq.fastq.gz
+Tom85	Tom85C	cleaned_reads/tomf85pl3.fastq.fastq.gz
+QM2485	QM2485A	cleaned_reads/QM2485a.fastq.fastq.gz
+QM2485	QM2485B	cleaned_reads/QM2485b.fastq.fastq.gz
+QM2485	QM2485C	cleaned_reads/QM2485c.fastq.fastq.gz
+QM2585	QM2585A	cleaned_reads/QM2585a.fastq.fastq.gz
+QM2585	QM2585B	cleaned_reads/QM2585b.fastq.fastq.gz
+QM2585	QM2585C	cleaned_reads/QM2585c.fastq.fastq.gz
+TAB09585	TAB09585A	cleaned_reads/tab09585pl1.fastq.fastq.gz
+TAB09585	TAB09585B	cleaned_reads/tab09585pl8.fastq.fastq.gz
+TAB09585	TAB09585C	cleaned_reads/tab095856-28.fastq.fastq.gz
+TABC85	TABC85A	cleaned_reads/tabChu85pl4.fastq.fastq.gz
+TABC85	TABC85B	cleaned_reads/tabChu85pl5.fastq.fastq.gz
+TABC85	TABC85C	cleaned_reads/tabChu856-28.fastq.fastq.gz

@@ -1,0 +1,17 @@
+Sylv60	Sylv60A	cleaned_reads/sylv60pl1.fastq.fastq.gz
+Sylv60	Sylv60B	cleaned_reads/sylv60pl3.fastq.fastq.gz
+Sylv60	Sylv60C	cleaned_reads/sylv606-28.fastq.fastq.gz
+Tom60	Tom60A	cleaned_reads/tomf60pl1.fastq.fastq.gz
+Tom60	Tom60B	cleaned_reads/tomf60pl2.fastq.fastq.gz
+Tom60	Tom60C	cleaned_reads/tomf60pl3.fastq.fastq.gz
+QM2460	QM2460A	cleaned_reads/QM2460a.fastq.fastq.gz
+QM2460	QM2460C	cleaned_reads/QM2460c.fastq.fastq.gz
+QM2560	QM2560A	cleaned_reads/QM2560a.fastq.fastq.gz
+QM2560	QM2560B	cleaned_reads/QM2560b.fastq.fastq.gz
+QM2560	QM2560C	cleaned_reads/QM2560c.fastq.fastq.gz
+TAB09560	TAB09560A	cleaned_reads/tab09560pl1.fastq.fastq.gz
+TAB09560	TAB09560B	cleaned_reads/tab09560pl8.fastq.fastq.gz
+TAB09560	TAB09560C	cleaned_reads/tab095606-28.fastq.fastq.gz
+TABC60	TABC60A	cleaned_reads/tabChu60pl4.fastq.fastq.gz
+TABC60	TABC60B	cleaned_reads/tabChu60pl5.fastq.fastq.gz
+TABC60	TABC60C	cleaned_reads/tabChu606-28.fastq.fastq.gz
