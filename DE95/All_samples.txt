@@ -1,0 +1,17 @@
+Sylv95	Sylv95A	cleaned_reads/sylv95pl1.fastq.fastq.gz
+Sylv95	Sylv95B	cleaned_reads/sylv95pl3.fastq.fastq.gz
+Sylv95	Sylv95C	cleaned_reads/sylv956-28.fastq.fastq.gz
+Tom95	Tom95A	cleaned_reads/tomf95pl1.fastq.fastq.gz
+Tom95	Tom95B	cleaned_reads/tomf95pl2.fastq.fastq.gz
+Tom95	Tom95C	cleaned_reads/tomf95pl3.fastq.fastq.gz
+QM2495	QM2495A	cleaned_reads/QM2495a.fastq.fastq.gz
+QM2495	QM2495B	cleaned_reads/QM2495b.fastq.fastq.gz
+QM2595	QM2595A	cleaned_reads/QM2595a.fastq.fastq.gz
+QM2595	QM2595B	cleaned_reads/QM2595b.fastq.fastq.gz
+QM2595	QM2595C	cleaned_reads/QM2595c.fastq.fastq.gz
+TAB09595	TAB09595A	cleaned_reads/tab09595pl1.fastq.fastq.gz
+TAB09595	TAB09595B	cleaned_reads/tab09595pl8.fastq.fastq.gz
+TAB09595	TAB09595C	cleaned_reads/tab095956-28.fastq.fastq.gz
+TABC95	TABC95A	cleaned_reads/tabChu95pl4.fastq.fastq.gz
+TABC95	TABC95B	cleaned_reads/tabChu95pl5.fastq.fastq.gz
+TABC95	TABC95C	cleaned_reads/tabChu956-28.fastq.fastq.gz
